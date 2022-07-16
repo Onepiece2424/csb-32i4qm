@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://onepiece2424.github.io/csb-32i4qm/static/js/main.0c7c165e.chunk.js",
+    "main.js.map": "https://onepiece2424.github.io/csb-32i4qm/static/js/main.0c7c165e.chunk.js.map",
+    "runtime-main.js": "https://onepiece2424.github.io/csb-32i4qm/static/js/runtime-main.2012b48f.js",
+    "runtime-main.js.map": "https://onepiece2424.github.io/csb-32i4qm/static/js/runtime-main.2012b48f.js.map",
+    "static/js/2.30b940fb.chunk.js": "https://onepiece2424.github.io/csb-32i4qm/static/js/2.30b940fb.chunk.js",
+    "static/js/2.30b940fb.chunk.js.map": "https://onepiece2424.github.io/csb-32i4qm/static/js/2.30b940fb.chunk.js.map",
+    "index.html": "https://onepiece2424.github.io/csb-32i4qm/index.html",
+    "static/js/2.30b940fb.chunk.js.LICENSE.txt": "https://onepiece2424.github.io/csb-32i4qm/static/js/2.30b940fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2012b48f.js",
+    "static/js/2.30b940fb.chunk.js",
+    "static/js/main.0c7c165e.chunk.js"
+  ]
+}
